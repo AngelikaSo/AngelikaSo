@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Angelika 👋
 
-<!--
-**AngelikaSo/AngelikaSo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Junior Web Developer and Digital Experience Specialist with a background in frontend development, quality assurance, digital marketing, and visual design.
 
-Here are some ideas to get you started:
+I enjoy building responsive, user-friendly websites and improving digital experiences through clean code, thoughtful design, and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technologies
+
+- HTML5 & CSS3
+- JavaScript
+- React
+- WordPress & Elementor
+- Git & GitHub
+- Responsive Web Design
+- SEO & Web Analytics
+
+## 🚀 Currently working on
+
+- Building React projects
+- Improving my JavaScript skills
+- Exploring modern frontend development practices
+
+## 🌱 Background
+
+My experience combines:
+- Website development and maintenance
+- QA testing and troubleshooting
+- SEO optimization
+- UX and visual design
+
+I enjoy working at the intersection of technology, creativity, and user experience.
