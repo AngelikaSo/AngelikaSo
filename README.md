@@ -1,6 +1,6 @@
 # Hi, I'm Angelika 👋
 
-I'm a Junior Web Developer and Digital Experience Specialist with a background in frontend development, quality assurance, digital marketing, and visual design.
+I'm a Web Developer and Digital Experience Specialist with a background in frontend development, quality assurance, digital marketing, and visual design.
 
 I enjoy building responsive, user-friendly websites and improving digital experiences through clean code, thoughtful design, and continuous learning.
 
