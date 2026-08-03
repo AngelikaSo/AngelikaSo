@@ -1,4 +1,11 @@
-# Hi, I'm Angelika 👋
+<h1 align="center">
+  Hey, I'm Angelika
+</h1>
+
+<h3 align="center">
+  I build 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=1000&color=EF6461&center=true&vCenter=true&width=600&lines=intuitive+software+that+solves+real-world+problems;accessible+digital+experiences;modern+frontend+applications" />
+</h3>
 
 I'm a Web Developer and Digital Experience Specialist with a background in frontend development, quality assurance, digital marketing, and visual design.
 
