@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="GitHub animation.gif" width="800" alt="Hero">
+<img src="hero.gif" width="800" alt="Hero">
 
 </div>
 
