@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="hero.gif" width="800" alt="Hero">
+<img src="hero-github.gif" width="900" alt="Hey, I'm Angelika I build intuitive, accessible software that solves real problems.">
 
 </div>
 
