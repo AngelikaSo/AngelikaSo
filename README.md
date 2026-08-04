@@ -20,13 +20,13 @@
 I’m a **Frontend Web Developer** specializing in building
 **responsive, high-performance, and accessible web experiences** using:
 
-🌐 HTML5 & CSS3
-⚡ JavaScript  
-⚛️ React  
-📝 WordPress & Elementor  
-🐙 Git & GitHub  
-📱 Responsive Web Design  
-📊 SEO & Web Analytics
+- 🌐 HTML5 & CSS3
+- ⚡ JavaScript  
+- ⚛️ React  
+- 📝 WordPress & Elementor  
+- 🐙 Git & GitHub  
+- 📱 Responsive Web Design  
+- 📊 SEO & Web Analytics
 
 ---
  ## Featured Projects
