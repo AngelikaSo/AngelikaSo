@@ -1,8 +1,4 @@
-<div align="center">
-
 <img src="hero-github.gif" width="900" alt="Hey, I'm Angelika I build intuitive, accessible software that solves real problems.">
-
-</div>
 
 <div style="max-width: 800px; margin: 0 auto;">
 
