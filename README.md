@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<img src="hero-github.gif" alt="Hey, I'm Angelika I build intuitive, accessible software that solves real problems.">
+<img src="hero-github-1.gif" alt="Hey, I'm Angelika I build intuitive, accessible software that solves real problems.">
 
 <p align="center">
 <em> Frontend Web Developer | Building thoughtful digital experiences through code and design</em>
