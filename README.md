@@ -35,9 +35,9 @@ I’m a **Frontend Web Developer** specializing in building
  A custom WordPress website focused on clean design, responsive layouts, and improved user experience.
 
 **Built with:** 
-WordPress · Elementor · WPForms · Figma
+- WordPress · Elementor · WPForms · Figma
 
-🔗 **View Project:** https://agnieszkaferenc.com/
+**View Project:** https://agnieszkaferenc.com/
 
 ---
 
@@ -45,9 +45,9 @@ WordPress · Elementor · WPForms · Figma
 A simple web application that delivers motivational messages with an interactive and user-friendly interface.
 
 **Built with:** 
-React · JavaScript · CSS
+- React · JavaScript · CSS
 
-🔗 **View Project:** https://angelikaso.github.io/new-message-app/
+**View Project:** https://angelikaso.github.io/new-message-app/
 
 ---
 
@@ -55,22 +55,22 @@ React · JavaScript · CSS
 A productivity app for managing daily tasks with a clean and intuitive interface.
 
 **Built with:** 
-HTML · CSS · JavaScript
+- HTML · CSS · JavaScript
 
-🔗 **View Project:** https://dailytasksdone.netlify.app/ 
+**View Project:** https://dailytasksdone.netlify.app/ 
  
 
-## 🚀 Currently working on
+## Currently working on
 
 ### 🧗 ClimbOn — Climbing Journal App
 A React-based climbing companion app designed to help climbers track sessions, reflect on progress, and build their climbing journey.
 
 **Currently building with:**
-Figma · React
+- Figma · React
 
 ---
   
-## 🌱 Background
+## Background
 
 My experience combines:
 - Website development and maintenance
@@ -80,10 +80,10 @@ My experience combines:
 
 ---
 
-## 🛠️ Tech Stack
-<p align="left">
+## Tech Stack
+
 [![Languages and Tools](https://skillicons.dev/icons?i=js,html,css,react,nodejs,tailwind,git,postman&theme=dark)](https://skillicons.dev)
-</p>
+
 
 ---
 
