@@ -29,6 +29,16 @@ I’m a **Frontend Web Developer** specializing in building
 📱 Responsive Web Design  
 📊 SEO & Web Analytics
 
+---
+ ## Featured Projects
+
+ ### 🌐 **WordPress Website**
+ A custom WordPress website focused on clean design, responsive layouts, and improved user experience.
+
+**Built with:** WordPress · Elementor · WPForms · Figma
+
+🔗 [View Project] https://agnieszkaferenc.com/
+ 
 
 ## 🚀 Currently working on
 
@@ -36,6 +46,8 @@ I’m a **Frontend Web Developer** specializing in building
 - Improving my JavaScript skills
 - Exploring modern frontend development practices
 
+---
+  
 ## 🌱 Background
 
 My experience combines:
@@ -44,10 +56,18 @@ My experience combines:
 - SEO optimization
 - UX and visual design
 
-<h5 align="left">Languages and Tools</h5>
+---
 
+## 🛠️ Tech Stack
+<p align="left">
 [![Languages and Tools](https://skillicons.dev/icons?i=js,html,css,react,nodejs,tailwind,git,postman&theme=dark)](https://skillicons.dev)
+</p>
+
+---
+
 
 I enjoy working at the intersection of technology, creativity, and user experience.
+
+
 
 
