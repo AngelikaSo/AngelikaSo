@@ -11,6 +11,10 @@ const Angelika = {
 };
 ```
 
+<h5 align="left">Languages and Tools</h5>
+
+[![Languages and Tools](https://skillicons.dev/icons?i=js,html,css,react,nodejs,tailwind,git,postman&theme=dark)](https://skillicons.dev)
+
 
 I'm a Web Developer and Digital Experience Specialist with a background in frontend development, quality assurance, digital marketing, and visual design.
 
