@@ -1,6 +1,16 @@
 <img src="hero-github.gif" alt="Hey, I'm Angelika I build intuitive, accessible software that solves real problems.">
 
-<div style="max-width: 800px; margin: 0 auto;">
+```javascript
+const Angelika = {
+  name: "Angelika Sowka",
+  role: "Frondend Web Developer",
+  location: "Boston, MA",
+  currentlyBuilding: "ClimbOn",
+  status: "Building modern web experiences",
+  portfolio: "https://angelikaso.github.io/portfolio_angelika/",
+};
+```
+
 
 I'm a Web Developer and Digital Experience Specialist with a background in frontend development, quality assurance, digital marketing, and visual design.
 
@@ -32,4 +42,4 @@ My experience combines:
 
 I enjoy working at the intersection of technology, creativity, and user experience.
 
-</div>
+
