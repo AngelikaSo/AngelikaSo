@@ -87,8 +87,21 @@ My experience combines:
 
 ---
 
+## 💬 Let’s Connect
 
 I enjoy working at the intersection of technology, creativity, and user experience.
+
+If you're building thoughtful digital products, sharing ideas, or looking to collaborate on web experiences, **let’s chat.**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/angelikasowka/">
+    <img src="https://img.shields.io/badge/Send%20a%20Message-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+### Thanks for stopping by! 👩‍💻  
 
 
 
