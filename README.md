@@ -21,7 +21,6 @@ I’m a **Frontend Web Developer** specializing in building
 **responsive, high-performance, and accessible web experiences** using:
 
 🌐 HTML5 & CSS3
-💨 Tailwind CSS  
 ⚡ JavaScript  
 ⚛️ React  
 📝 WordPress & Elementor  
