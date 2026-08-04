@@ -34,8 +34,7 @@ I’m a **Frontend Web Developer** specializing in building
  ### 🌐 **WordPress Website**
  A custom WordPress website focused on clean design, responsive layouts, and improved user experience.
 
-**Built with:** 
-- WordPress · Elementor · WPForms · Figma
+**Built with:** WordPress · Elementor · WPForms · Figma
 
 **View Project:** https://agnieszkaferenc.com/
 
@@ -44,8 +43,7 @@ I’m a **Frontend Web Developer** specializing in building
 ### 💬 Motivation Message App
 A simple web application that delivers motivational messages with an interactive and user-friendly interface.
 
-**Built with:** 
-- React · JavaScript · CSS
+**Built with:** React · JavaScript · CSS
 
 **View Project:** https://angelikaso.github.io/new-message-app/
 
@@ -54,8 +52,7 @@ A simple web application that delivers motivational messages with an interactive
 ### ✅ Daily Tasks App
 A productivity app for managing daily tasks with a clean and intuitive interface.
 
-**Built with:** 
-- HTML · CSS · JavaScript
+**Built with:** HTML · CSS · JavaScript
 
 **View Project:** https://dailytasksdone.netlify.app/ 
  
@@ -65,8 +62,7 @@ A productivity app for managing daily tasks with a clean and intuitive interface
 ### 🧗 ClimbOn — Climbing Journal App
 A React-based climbing companion app designed to help climbers track sessions, reflect on progress, and build their climbing journey.
 
-**Currently building with:**
-- Figma · React
+**Currently building with:** Figma · React
 
 ---
   
