@@ -10,7 +10,7 @@
 <!-- Badges Row -->
 <p align="center">
   <a href="https://www.linkedin.com/in/angelikasowka/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://angelikaso.github.io/portfolio_angelika/"><img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge"></a>
+  <a href="https://angelikaso.github.io/my-portfolio/index.html"><img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge"></a>
   <a href="https://github.com/AngelikaSo"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"></a>
 </p>
 
